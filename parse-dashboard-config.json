@@ -2,7 +2,7 @@
   "apps": [
     {
       "serverURL": "http://mvc-functions.herokuapp.com/parse",
-      "appId": "mvc-functioning",
+      "appId": "mvc-functions",
       "masterKey": "Andrei123",
       "appName": "Functioning App"
     }
