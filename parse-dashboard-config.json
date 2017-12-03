@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://mcv-functioning.herokuapp.com/parse",
+      "serverURL": "http://mvc-functioning.herokuapp.com/parse",
       "appId": "mvc-functioning",
       "masterKey": "Andrei123",
       "appName": "Functioning App"
