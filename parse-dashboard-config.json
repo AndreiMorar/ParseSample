@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://mcv-functioning.herokuapp.com/parse",
+      "appId": "mvc-functioning",
+      "masterKey": "Andrei123",
+      "appName": "Functioning App"
+    }
+  ],
+  "users": [
+    {
+      "user":"user1",
+      "pass":"pass"
+    }
+  ]
+}
