@@ -1,16 +1,16 @@
 {
   "apps": [
     {
-      "serverURL": "http://mvc-functions.herokuapp.com",
+      "serverURL": "http://mvc-functions.herokuapp.com/parse",
       "appId": "mvc-functions",
       "masterKey": "Andrei123",
-      "appName": "Functioning App"
+      "appName": "mvc-functions"
     }
   ],
   "users": [
     {
       "user":"test",
-      "pass":"test"
+      "pass":"123"
     }
   ]
 }
