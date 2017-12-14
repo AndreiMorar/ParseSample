@@ -9,8 +9,8 @@
   ],
   "users": [
     {
-      "user":"user1",
-      "pass":"pass"
+      "user":"test",
+      "pass":"test"
     }
   ]
 }
